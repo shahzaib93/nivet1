@@ -1,0 +1,17 @@
+{
+  "name": "nivet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ionic:serve": "echo \"Error: no test specified\" "
+  },
+  "author": "",
+  "license": "ISC"
+}
