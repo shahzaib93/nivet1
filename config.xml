@@ -13,6 +13,7 @@
       A testing app
   </description>
   <icon src="icon.png" />
-  <splash src="splash.png" />
+  
+  <splash src="splash.png" platform="android" qualifier="mdpi" />
 
 </widget>
