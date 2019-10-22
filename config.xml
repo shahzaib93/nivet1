@@ -13,5 +13,6 @@
       A testing app
   </description>
   <icon src="icon.png" />
+  <splash src="splash.png" />
 
 </widget>
